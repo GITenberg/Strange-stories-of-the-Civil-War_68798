@@ -1,0 +1,47 @@
+_repo: Strange-stories-of-the-Civil-War_68798
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Chittenden, L. E. (Lucius Eugene)
+    alias: Chittenden, Lucius Eugene
+    birthdate: 1824
+    deathdate: 1900
+    gutenberg_agent_id: '26582'
+    url: http://www.gutenberg.org/2009/agents/26582
+    wikipedia: http://en.wikipedia.org/wiki/Lucius_E._Chittenden
+  - agent_name: Habberton, John
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '1427'
+    url: http://www.gutenberg.org/2009/agents/1427
+    wikipedia: https://en.wikipedia.org/wiki/John_Habberton
+  - agent_name: Henderson, William J.
+    gutenberg_agent_id: '54952'
+    url: http://www.gutenberg.org/2009/agents/54952
+  - agent_name: Patterson, Howard
+    gutenberg_agent_id: '54953'
+    url: http://www.gutenberg.org/2009/agents/54953
+  - agent_name: Shackleton, Robert
+    birthdate: 1860
+    deathdate: 1923
+    gutenberg_agent_id: '38534'
+    url: http://www.gutenberg.org/2009/agents/38534
+description: ''
+gutenberg_issued: '2022-08-21'
+identifiers:
+  gutenberg: '68798'
+language: en
+pgterms:marc904: https://archive.org/details/shackletonslastv00wilduoft/
+pgterms:marc905: 20220212171301shackleton
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Harper & Brothers,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Strange stories of the Civil War
+url: http://www.gutenberg.org/ebooks/68798
